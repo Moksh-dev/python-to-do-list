@@ -73,7 +73,7 @@ advanced-todo-app/
 
 Clone the repository:
 
-    git clone https://github.com/your-username/advanced-todo-app.git
+    git clone https://github.com/Moksh-dev/advanced-todo-app.git
 
 Navigate into the project:
 
